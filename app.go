@@ -7,4 +7,5 @@ import (
 func main() {
 	fmt.Println("this is a test")
 	fmt.Println("Hello World")
+	fmt.Println("too slow")
 }
