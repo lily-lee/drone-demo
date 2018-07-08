@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("too slow")
 	fmt.Println("OK!")
 	fmt.Println("xixixi")
+	fmt.Println("aaaa")
 }
