@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("too slow")
 	fmt.Println("OK!")
+	fmt.Println("xixixi")
 }
